@@ -1,5 +1,5 @@
 # sed-template
-Simple bash ans sed script to create and run 'sed' to replace template file
+Simple bash and sed script to create and run 'sed' to replace template file
 
 
 ## Getting Started
