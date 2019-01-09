@@ -1,0 +1,4 @@
+# this is a sed script. Run with "sed -f" 
+s/_WORDS_/word1/g
+s/_OTHER_/word2/g
+s/_THIS_/word3/g
